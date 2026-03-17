@@ -27,6 +27,3 @@ This project is based on the concept of **CRUD Operations**:
 - **Read** → Display movies  
 - **Update** → Edit movie details  
 - **Delete** → Remove a movie
-  
-
-## 📁 Project Structure
